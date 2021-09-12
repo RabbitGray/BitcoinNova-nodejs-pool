@@ -1,3 +1,4 @@
+Modified for Bitcoin Nova
 cryptonote-nodejs-pool
 ======================
 
